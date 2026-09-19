@@ -1,0 +1,34 @@
+{
+    "Name": "NoEasyFix",
+    "Enabled": true,
+    "Version": "0.1.10",
+    "Description": "Standard BattleMechs are finished machines: repair, re-armor, and swap gear that fits the stock layout, but leftover empty slots stay locked. OmniMechs keep leftover space. Type-change refits cost more; repairs and like-for-like swaps do not.",
+    "Author": "Blacknova",
+    "DLL": "NoEasyFix.dll",
+    "DLLEntryPoint": "NoEasyFix.Main.Init",
+    "DependsOn": [
+        "ModTek",
+        "CustomComponents"
+    ],
+    "OptionallyDependsOn": [
+        "CustomUnits",
+        "BTSimpleMechAssembly"
+    ],
+    "Settings": {
+        "EnableSlotBudget": true,
+        "EnableInstallCost": true,
+        "FreezeStockGear": false,
+        "DebugLog": true,
+        "OmniTag": "chassis_omni",
+        "FakeVehicleTag": "fake_vehicle_chassis",
+        "TypeChangeRefitCbillsMultiplier": 5.0,
+        "TypeChangeRefitTechMultiplier": 5.0,
+        "MessageOverBudget": "Cannot install {0} in {1}: exceeds this location's stock slot budget ({2}).",
+        "MessageNoLeftover": "Cannot install {0} in {1}: no unused space on a standard BattleMech. OmniMechs can use leftover slots.",
+        "ShowSlotGuides": true,
+        "ShowLockedHatch": true,
+        "ShowStockViewToggle": true,
+        "ShowBudgetTooltip": true,
+        "MessageBudgetTooltip": "{0}: {1} used / {2} stock ({3} leftover slots locked). F8 stock view."
+    }
+}

@@ -1,0 +1,77 @@
+{
+  "format": 4,
+  "mechs": {
+    "non_campaign_instance_f6c0df35-1c7b-458a-bc13-1cb13baf653a|SGRef_29667": {
+      "slots": {
+        "Head": 1,
+        "LeftArm": 4,
+        "LeftTorso": 1,
+        "CenterTorso": 1,
+        "RightTorso": 1,
+        "RightArm": 4,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [
+          "UP:Gear_General_Rangefinder_Suite"
+        ],
+        "LeftArm": [
+          "W:AC5",
+          "W:LargeLaser"
+        ],
+        "LeftTorso": [
+          "W:MediumLaser"
+        ],
+        "CenterTorso": [
+          "A:AC5RF"
+        ],
+        "RightTorso": [
+          "W:MediumLaser"
+        ],
+        "RightArm": [
+          "W:AC5",
+          "W:LargeLaser"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_f6c0df35-1c7b-458a-bc13-1cb13baf653a|SGRef_29666": {
+      "slots": {
+        "Head": 1,
+        "LeftArm": 4,
+        "LeftTorso": 1,
+        "CenterTorso": 1,
+        "RightTorso": 1,
+        "RightArm": 4,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [
+          "UP:Gear_General_Rangefinder_Suite"
+        ],
+        "LeftArm": [
+          "W:AC5",
+          "W:LargeLaser"
+        ],
+        "LeftTorso": [
+          "W:MediumLaser"
+        ],
+        "CenterTorso": [
+          "A:AC5RF"
+        ],
+        "RightTorso": [
+          "W:MediumLaser"
+        ],
+        "RightArm": [
+          "W:AC5",
+          "W:LargeLaser"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    }
+  }
+}
