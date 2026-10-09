@@ -72,6 +72,538 @@
         "LeftLeg": [],
         "RightLeg": []
       }
+    },
+    "non_campaign_instance_f6c0df35-1c7b-458a-bc13-1cb13baf653a|SGRef_29501": {
+      "slots": {
+        "Head": 1,
+        "LeftArm": 2,
+        "LeftTorso": 5,
+        "CenterTorso": 1,
+        "RightTorso": 5,
+        "RightArm": 2,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [
+          "W:SmallLaser"
+        ],
+        "LeftArm": [
+          "W:MediumLaser"
+        ],
+        "LeftTorso": [
+          "W:LRM10",
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "A:LRM"
+        ],
+        "RightTorso": [
+          "W:MachineGun",
+          "A:MG",
+          "JJ:Standard"
+        ],
+        "RightArm": [
+          "W:MediumLaser"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_f6c0df35-1c7b-458a-bc13-1cb13baf653a|SGRef_51332": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 2,
+        "LeftTorso": 4,
+        "CenterTorso": 2,
+        "RightTorso": 5,
+        "RightArm": 2,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [
+          "W:MediumLaser",
+          "W:Flamer"
+        ],
+        "LeftTorso": [
+          "W:MachineGun",
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "W:Flamer"
+        ],
+        "RightTorso": [
+          "W:MachineGun",
+          "JJ:Standard",
+          "A:MG"
+        ],
+        "RightArm": [
+          "W:MediumLaser",
+          "W:Flamer"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_10656": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 1,
+        "LeftTorso": 4,
+        "CenterTorso": 2,
+        "RightTorso": 4,
+        "RightArm": 1,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [
+          "W:MachineGun"
+        ],
+        "LeftTorso": [
+          "W:MediumLaser",
+          "A:MG",
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "JJ:Standard"
+        ],
+        "RightTorso": [
+          "W:AC2",
+          "A:AC2",
+          "JJ:Standard"
+        ],
+        "RightArm": [
+          "W:Flamer"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_13": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 2,
+        "LeftTorso": 4,
+        "CenterTorso": 2,
+        "RightTorso": 5,
+        "RightArm": 2,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [
+          "W:MediumLaser",
+          "W:Flamer"
+        ],
+        "LeftTorso": [
+          "W:MachineGun",
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "W:Flamer"
+        ],
+        "RightTorso": [
+          "W:MachineGun",
+          "A:MG",
+          "JJ:Standard"
+        ],
+        "RightArm": [
+          "W:MediumLaser",
+          "W:Flamer"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_15": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 1,
+        "LeftTorso": 1,
+        "CenterTorso": 1,
+        "RightTorso": 0,
+        "RightArm": 2,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [
+          "W:MediumLaser"
+        ],
+        "LeftTorso": [
+          "A:SRM"
+        ],
+        "CenterTorso": [
+          "W:SRM2"
+        ],
+        "RightTorso": [],
+        "RightArm": [
+          "W:LargeLaser"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_19": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 0,
+        "LeftTorso": 2,
+        "CenterTorso": 2,
+        "RightTorso": 1,
+        "RightArm": 1,
+        "LeftLeg": 2,
+        "RightLeg": 1
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [],
+        "LeftTorso": [
+          "A:SRM",
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "JJ:Standard"
+        ],
+        "RightTorso": [
+          "JJ:Standard"
+        ],
+        "RightArm": [
+          "W:MediumLaser"
+        ],
+        "LeftLeg": [
+          "W:SRM2",
+          "JJ:Standard"
+        ],
+        "RightLeg": [
+          "JJ:Standard"
+        ]
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_11": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 0,
+        "LeftTorso": 1,
+        "CenterTorso": 1,
+        "RightTorso": 1,
+        "RightArm": 0,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [],
+        "LeftTorso": [
+          "W:MediumLaser"
+        ],
+        "CenterTorso": [
+          "W:SmallLaser"
+        ],
+        "RightTorso": [
+          "W:MediumLaser"
+        ],
+        "RightArm": [],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_36632": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 0,
+        "LeftTorso": 1,
+        "CenterTorso": 2,
+        "RightTorso": 0,
+        "RightArm": 3,
+        "LeftLeg": 3,
+        "RightLeg": 3
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [],
+        "LeftTorso": [
+          "A:SRM"
+        ],
+        "CenterTorso": [
+          "W:SRM4",
+          "HS"
+        ],
+        "RightTorso": [],
+        "RightArm": [
+          "W:PPC"
+        ],
+        "LeftLeg": [
+          "JJ:Standard",
+          "HS"
+        ],
+        "RightLeg": [
+          "JJ:Standard",
+          "HS"
+        ]
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_39093": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 2,
+        "LeftTorso": 4,
+        "CenterTorso": 2,
+        "RightTorso": 5,
+        "RightArm": 2,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [
+          "W:MediumLaser",
+          "W:Flamer"
+        ],
+        "LeftTorso": [
+          "W:MachineGun",
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "W:Flamer"
+        ],
+        "RightTorso": [
+          "W:MachineGun",
+          "JJ:Standard",
+          "A:MG"
+        ],
+        "RightArm": [
+          "W:MediumLaser",
+          "W:Flamer"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_51569": {
+      "slots": {
+        "Head": 1,
+        "LeftArm": 1,
+        "LeftTorso": 2,
+        "CenterTorso": 0,
+        "RightTorso": 4,
+        "RightArm": 1,
+        "LeftLeg": 2,
+        "RightLeg": 1
+      },
+      "types": {
+        "Head": [
+          "W:SmallLaser"
+        ],
+        "LeftArm": [
+          "W:MediumLaser"
+        ],
+        "LeftTorso": [
+          "A:AC20"
+        ],
+        "CenterTorso": [],
+        "RightTorso": [
+          "W:AC20"
+        ],
+        "RightArm": [
+          "W:MediumLaser"
+        ],
+        "LeftLeg": [
+          "HS"
+        ],
+        "RightLeg": [
+          "HS"
+        ]
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_52834": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 0,
+        "LeftTorso": 4,
+        "CenterTorso": 1,
+        "RightTorso": 4,
+        "RightArm": 4,
+        "LeftLeg": 2,
+        "RightLeg": 2
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [],
+        "LeftTorso": [
+          "W:LRM5",
+          "HS",
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "JJ:Standard"
+        ],
+        "RightTorso": [
+          "HS",
+          "A:LRM",
+          "JJ:Standard"
+        ],
+        "RightArm": [
+          "W:LargeLaser",
+          "W:MediumLaser"
+        ],
+        "LeftLeg": [
+          "HS"
+        ],
+        "RightLeg": [
+          "HS"
+        ]
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_75793": {
+      "slots": {
+        "Head": 1,
+        "LeftArm": 1,
+        "LeftTorso": 2,
+        "CenterTorso": 0,
+        "RightTorso": 4,
+        "RightArm": 1,
+        "LeftLeg": 2,
+        "RightLeg": 1
+      },
+      "types": {
+        "Head": [
+          "W:SmallLaser"
+        ],
+        "LeftArm": [
+          "W:MediumLaser"
+        ],
+        "LeftTorso": [
+          "A:AC20"
+        ],
+        "CenterTorso": [],
+        "RightTorso": [
+          "W:AC20"
+        ],
+        "RightArm": [
+          "W:MediumLaser"
+        ],
+        "LeftLeg": [
+          "HS"
+        ],
+        "RightLeg": [
+          "HS"
+        ]
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_77891": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 2,
+        "LeftTorso": 4,
+        "CenterTorso": 2,
+        "RightTorso": 5,
+        "RightArm": 2,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [
+          "W:MediumLaser",
+          "W:Flamer"
+        ],
+        "LeftTorso": [
+          "W:MachineGun",
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "W:Flamer"
+        ],
+        "RightTorso": [
+          "W:MachineGun",
+          "JJ:Standard",
+          "A:MG"
+        ],
+        "RightArm": [
+          "W:MediumLaser",
+          "W:Flamer"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_90892": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 0,
+        "LeftTorso": 2,
+        "CenterTorso": 1,
+        "RightTorso": 6,
+        "RightArm": 3,
+        "LeftLeg": 1,
+        "RightLeg": 1
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [],
+        "LeftTorso": [
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "JJ:Standard"
+        ],
+        "RightTorso": [
+          "W:LRM10",
+          "JJ:Standard",
+          "A:LRM"
+        ],
+        "RightArm": [
+          "W:PPC"
+        ],
+        "LeftLeg": [
+          "HS"
+        ],
+        "RightLeg": [
+          "HS"
+        ]
+      }
+    },
+    "non_campaign_instance_8ffe2efb-55b3-469f-bc87-0d939f700756|SGRef_91791": {
+      "slots": {
+        "Head": 0,
+        "LeftArm": 2,
+        "LeftTorso": 2,
+        "CenterTorso": 1,
+        "RightTorso": 2,
+        "RightArm": 4,
+        "LeftLeg": 0,
+        "RightLeg": 0
+      },
+      "types": {
+        "Head": [],
+        "LeftArm": [
+          "W:MediumLaser",
+          "W:MachineGun"
+        ],
+        "LeftTorso": [
+          "JJ:Standard"
+        ],
+        "CenterTorso": [
+          "A:MG"
+        ],
+        "RightTorso": [
+          "JJ:Standard"
+        ],
+        "RightArm": [
+          "W:LargeLaser",
+          "W:MediumLaser",
+          "W:MachineGun"
+        ],
+        "LeftLeg": [],
+        "RightLeg": []
+      }
     }
   }
 }

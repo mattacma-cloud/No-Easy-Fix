@@ -1,7 +1,7 @@
 {
     "Name": "NoEasyFix",
     "Enabled": true,
-    "Version": "0.1.10",
+    "Version": "0.1.11",
     "Description": "Standard BattleMechs are finished machines: repair, re-armor, and swap gear that fits the stock layout, but leftover empty slots stay locked. OmniMechs keep leftover space. Type-change refits cost more; repairs and like-for-like swaps do not.",
     "Author": "Blacknova",
     "DLL": "NoEasyFix.dll",
