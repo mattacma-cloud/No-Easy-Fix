@@ -28,7 +28,7 @@ Existing customized ’Mechs in your save games keep what they have and cannot g
 Drag the folders into you mods folder and accept any file overwrites.
 
 # Depends On
--The mod depends on the following:
+The mod depends on the following:
 
 - ModTek
 
