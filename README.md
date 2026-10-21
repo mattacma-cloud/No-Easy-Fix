@@ -29,9 +29,13 @@ Drag the folders into you mods folder and accept any file overwrites.
 
 # Depends On
 -The mod depends on the following:
--ModTek
--CustomComponents
+
+- ModTek
+
+- CustomComponents
 
 Optionally Depends On
--CustomUnits
--BTSimpleMechAssembly
+
+- CustomUnits
+
+- BTSimpleMechAssembly
