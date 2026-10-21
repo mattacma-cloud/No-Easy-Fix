@@ -23,3 +23,15 @@ Refit cost: standard repair costs remain the same, and same-kind swaps stay at t
 The MechLab provides tinted stock ghosts showing where different weapong types fit on the chassis, while a short bar shows locked leftover tiles, as well as a pointer toll that shows how much of the stock budget is in use. F8 fades the live kit so you can read the factory layout.
 
 Existing customized ’Mechs in your save games keep what they have and cannot grow further. New machines use the published stock layout. The mod does not turn Omnis into free-form pod ’Mechs, rewrite chassis files, or fill empty crits with dummy equipment.
+
+# Installation
+Drag the folders into you mods folder and accept any file overwrites.
+
+# Depends On
+-The mod depends on the following:
+-ModTek
+-CustomComponents
+
+Optionally Depends On
+-CustomUnits
+-BTSimpleMechAssembly
