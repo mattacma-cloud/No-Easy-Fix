@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 16872000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "EXT-5E",
+    "UIName": "Refit Kit, Exterminator EXT-5E",
+    "Id": "Gear_RefitKit_exterminator_EXT-5E",
+    "Name": "Refit Kit, Exterminator EXT-5E",
+    "Details": "Class F factory refit for a Exterminator EXT-5E. The finished machine gains Endo Steel, double heat sinks and an XL or light engine. Applied from the mech bay. Baseline price 16,872,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class F",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

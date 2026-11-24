@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 8196000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "ANH-2A",
+    "UIName": "Refit Kit, Annihilator ANH-2A",
+    "Id": "Gear_RefitKit_annihilator_ANH-2A",
+    "Name": "Refit Kit, Annihilator ANH-2A",
+    "Details": "Class E factory refit for a Annihilator ANH-2A. The finished machine gains CASE. Applied from the mech bay. Baseline price 8,196,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class E",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 3030000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "WVE-9N",
+    "UIName": "Refit Kit, Wyvern WVE-9N",
+    "Id": "Gear_RefitKit_wyvern_WVE-9N",
+    "Name": "Refit Kit, Wyvern WVE-9N",
+    "Details": "Class F factory refit for a Wyvern WVE-9N. The finished machine gains Endo Steel, double heat sinks and CASE. Applied from the mech bay. Baseline price 3,030,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class F",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

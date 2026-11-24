@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 14220000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "EXT-4D",
+    "UIName": "Refit Kit, Exterminator EXT-4D",
+    "Id": "Gear_RefitKit_exterminator_EXT-4D",
+    "Name": "Refit Kit, Exterminator EXT-4D",
+    "Details": "Class F factory refit for a Exterminator EXT-4D. The finished machine gains double heat sinks and an XL or light engine. Applied from the mech bay. Baseline price 14,220,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class F",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

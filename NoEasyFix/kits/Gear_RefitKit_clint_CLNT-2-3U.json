@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 2790000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "CLNT-2-3U",
+    "UIName": "Refit Kit, Clint CLNT-2-3U",
+    "Id": "Gear_RefitKit_clint_CLNT-2-3U",
+    "Name": "Refit Kit, Clint CLNT-2-3U",
+    "Details": "Class D maintenance refit for a Clint CLNT-2-3U. The finished machine gains double heat sinks. Applied from the mech bay. Baseline price 2,790,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class D",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

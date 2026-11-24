@@ -1,0 +1,84 @@
+{
+  "Description": {
+    "Id": "event_refitbulletin_3052-01",
+    "Name": "Kit Bash - The Upgrade Kit Circular",
+    "Details": "Welcome to the latest Kit Bash, where we keep you up to date on the latest and greatest upgrades for your legacy BattleMechs. As ever, these newest kits are not cheap, and for those who can't pull in the big money, you may need to wait a few years before the price comes down.\n\n[[DM.Factions[faction_Davion],Federated Suns]].\n\nHouse Davion has released the kits below.\n\nJohnston Industries is offering a kit for the [[DM.MechDefs[mechdef_cataphract_CTF-3D],Cataphract CTF-3D]].\n\nCorean Enterprises is offering a kit for the [[DM.MechDefs[mechdef_centurion_CN9-D3D],Centurion CN9-D3D]].\n\nBonn Mekarmorwerks is offering a kit for the [[DM.MechDefs[mechdef_hussar_HSR-500-D],Hussar HSR-500-D]].\n\n\n[[DM.Factions[faction_Steiner],Lyran Commonwealth]].\n\nHouse Steiner has released the kits below.\n\nCoventry Metal Works is offering a kit for the [[DM.MechDefs[mechdef_commando_COM-7A],Commando COM-7A]].\n\nNorse-Storm BattleMechs is offering a kit for the [[DM.MechDefs[mechdef_hunchback_HBK-5S],Hunchback HBK-5S]].\n\nStarCorps Industries is offering a kit for the [[DM.MechDefs[mechdef_longbow_LGB-7V],Longbow LGB-7V]].\n\n\n[[DM.Factions[faction_Marik],Free Worlds League]].\n\nHouse Marik has released the kits below.\n\nCorean Enterprises is offering a kit for the [[DM.MechDefs[mechdef_locust_LCT-3M],Locust LCT-3M]].\n\nTechnicron is offering a kit for the [[DM.MechDefs[mechdef_quickdraw_QKD-5M],Quickdraw QKD-5M]].\n\n\n[[DM.Factions[faction_Kurita],Draconis Combine]].\n\nHouse Kurita has released the kits below.\n\nYori 'Mech Works is offering a kit for the [[DM.MechDefs[mechdef_atlas_AS7-CM],Atlas AS7-CM]].\n\nA kit is offered for the [[DM.MechDefs[mechdef_kintaro_KTO-C],Kintaro KTO-C]].\n\nWakazashi Enterprises is offering a kit for the [[DM.MechDefs[mechdef_panther_PNT-10KA],Panther PNT-10KA]].\n\n\n[[DM.Factions[faction_ComStar],ComStar]].\n\nComStar has released the kits below.\n\nGrumium Creations is offering a kit for the [[DM.MechDefs[mechdef_cyclops_CP-11-G],Cyclops CP-11-G]].\n\nComStar is offering a kit for the [[DM.MechDefs[mechdef_exterminator_EXT-5E],Exterminator EXT-5E]].\n\nComStar is offering a kit for the [[DM.MechDefs[mechdef_marauder_MAD-5CS],Marauder MAD-5CS]].\n\nComStar is offering a kit for the [[DM.MechDefs[mechdef_rifleman_RFL-5CS],Rifleman RFL-5CS]].\n\nChariot Ltd. is offering a kit for the [[DM.MechDefs[mechdef_thorn_THE-N],Thorn THE-N]].\n\n\n[[DM.Factions[faction_WordOfBlake],Word of Blake]].\n\nThe Word of Blake has released the kits below.\n\nWord of Blake is offering a kit for the [[DM.MechDefs[mechdef_lancelot_LNC25-04],Lancelot LNC25-04]].\n\n\n[[DM.Factions[faction_Ives],St. Ives Compact]].\n\nThe St. Ives Compact has released the kits below.\n\nCeres Metals Industries is offering a kit for the [[DM.MechDefs[mechdef_blackjack_BJ-3X],Blackjack BJ-3X]].",
+    "Icon": "Atlas_Repair_Final.png"
+  },
+  "Scope": "Company",
+  "Weight": 0,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": null,
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [
+        "noeasyfix_slot_lock"
+      ],
+      "tagSetSourceFile": "Tags/CompanyTags"
+    },
+    "RequirementComparisons": []
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "continue",
+        "Name": "File the circular",
+        "Details": "",
+        "Icon": ""
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "filed",
+            "Name": "File the circular",
+            "Details": "For those seeking refit kits, remember, a refit kit's store price starts high in the year it is released and gets cheaper year on year. Fitting the kit to a 'Mech is a separate cost that is 60 percent of a new machine's cost, less the sale value of the parts you add to the kit yourself. The bay refit does not get cheaper as the kit store price declines.\n\nCost Over Time - \n\n - The year a kit is announced: 110 percent of a new chassis cost.\n\n - The next year: 100 percent of a new chassis cost.\n\n - Third year: 95 percent of a new chassis cost.\n\n - Fourth year: 90 percent of a new chassis cost.\n\n - Fifth Year: 85 percent of a new chassis cost.\n\n - Sixth Year: 80 percent of a new chassis cost.\n\n - Seventh Year: 75 percent of a new chassis cost.\n\n - Eighth Year and every year after that: 70 percent of a new chassis cost.\n\nWhere the Kit is Available - \n\nA faction's stores stock that faction's kits. The world decides how many kits are drawn:\n\n - A House capital: six kits.\n\n - One of the House's other capitals: four kits.\n\n - A factory world: four kits.\n\n - A manufacturing world: three kits.\n\n - A research world: two kits.\n\n - Any other world that House owns: one kit.\n\nEach draw is weighted by how long the kit has been available. A kit that has been out longer is more likely to be drawn than a newly announced one. The same kit can be drawn more than once, and the store then offers that many copies.\n\nA kit can be bought before the company owns a matching 'Mech. Fitting the kit still requires an older hull of that chassis.",
+            "Icon": ""
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": null,
+              "AddedTags": {
+                "items": null,
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": null,
+                "tagSetSourceFile": ""
+              },
+              "Stats": null,
+              "Actions": null,
+              "ForceEvents": null,
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": null,
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [
+            "noeasyfix_slot_lock"
+          ],
+          "tagSetSourceFile": "Tags/CompanyTags"
+        },
+        "RequirementComparisons": []
+      }
+    }
+  ],
+  "PublishState": "PUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE"
+}

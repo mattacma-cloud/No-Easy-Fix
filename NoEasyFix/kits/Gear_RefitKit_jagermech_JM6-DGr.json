@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 8928000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "JM6-DGr",
+    "UIName": "Refit Kit, JagerMech JM6-DGr",
+    "Id": "Gear_RefitKit_jagermech_JM6-DGr",
+    "Name": "Refit Kit, JagerMech JM6-DGr",
+    "Details": "Class F factory refit for a JagerMech JM6-DGr. The finished machine gains double heat sinks, an XL or light engine, CASE and ferro-fibrous armor. Applied from the mech bay. Baseline price 8,928,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class F",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

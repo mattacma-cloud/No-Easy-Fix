@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 4374000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "QKD-5K",
+    "UIName": "Refit Kit, Quickdraw QKD-5K",
+    "Id": "Gear_RefitKit_quickdraw_QKD-5K",
+    "Name": "Refit Kit, Quickdraw QKD-5K",
+    "Details": "Class D maintenance refit for a Quickdraw QKD-5K. The finished machine gains double heat sinks and ferro-fibrous armor. Applied from the mech bay. Baseline price 4,374,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class D",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

@@ -1,8 +1,8 @@
 {
     "Name": "NoEasyFix",
     "Enabled": true,
-    "Version": "0.1.11",
-    "Description": "Standard BattleMechs are finished machines: repair, re-armor, and swap gear that fits the stock layout, but leftover empty slots stay locked. OmniMechs keep leftover space. Type-change refits cost more; repairs and like-for-like swaps do not.",
+    "Version": "2.0.0",
+    "Description": "Standard BattleMechs keep their stock layout: leftover empty slots stay locked, while OmniMechs keep that space. A different kind of gear costs more to install; repairs and like-for-like swaps do not. Refit kits in a faction's stores upgrade an older hull to a later variant from the mech bay. Slot lock and refit kits can each be turned off in the mod settings.",
     "Author": "Blacknova",
     "DLL": "NoEasyFix.dll",
     "DLLEntryPoint": "NoEasyFix.Main.Init",
@@ -12,13 +12,15 @@
     ],
     "OptionallyDependsOn": [
         "CustomUnits",
-        "BTSimpleMechAssembly"
+        "BTSimpleMechAssembly",
+        "Timeline"
     ],
+    "CustomResourceTypes": [ "ForcedTimelineEvent" ],
     "Settings": {
         "EnableSlotBudget": true,
         "EnableInstallCost": true,
         "FreezeStockGear": false,
-        "DebugLog": true,
+        "DebugLog": false,
         "OmniTag": "chassis_omni",
         "FakeVehicleTag": "fake_vehicle_chassis",
         "TypeChangeRefitCbillsMultiplier": 5.0,
@@ -29,6 +31,16 @@
         "ShowLockedHatch": true,
         "ShowStockViewToggle": true,
         "ShowBudgetTooltip": true,
-        "MessageBudgetTooltip": "{0}: {1} used / {2} stock ({3} leftover slots locked). F8 stock view."
-    }
+        "MessageBudgetTooltip": "{0}: {1} used / {2} stock ({3} leftover slots locked). F8 stock view.",
+        "EnableRefitKits": true,
+        "DebugGrantKit": false,
+        "DebugInstantRefit": false,
+        "MessageRefitKit": "Refit kits are applied from the mech bay. They are not installed as equipment."
+    },
+    "Manifest": [
+        { "Type": "UpgradeDef", "Path": "kits" },
+        { "Type": "SimGameEventDef", "Path": "events" },
+        { "Type": "ForcedTimelineEvent", "Path": "forcedEvents" },
+        { "Type": "Sprite", "Path": "illustrations" }
+    ]
 }

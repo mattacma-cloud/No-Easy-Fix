@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 5952000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "KSC-4I",
+    "UIName": "Refit Kit, Koschei KSC-4I",
+    "Id": "Gear_RefitKit_koschei_KSC-4I",
+    "Name": "Refit Kit, Koschei KSC-4I",
+    "Details": "Class F factory refit for a Koschei KSC-4I. The finished machine gains Endo Steel, double heat sinks, CASE and ferro-fibrous armor. Applied from the mech bay. Baseline price 5,952,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class F",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}

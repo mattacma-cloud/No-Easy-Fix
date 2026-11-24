@@ -1,0 +1,84 @@
+{
+  "Description": {
+    "Id": "event_refitbulletin_3058-01",
+    "Name": "Kit Bash - The Upgrade Kit Circular",
+    "Details": "Welcome to the latest Kit Bash, where we keep you up to date on the latest and greatest upgrades for your legacy BattleMechs. As ever, these newest kits are not cheap, and for those who can't pull in the big money, you may need to wait a few years before the price comes down.",
+    "Icon": "Atlas_Repair_Final.png"
+  },
+  "Scope": "Company",
+  "Weight": 0,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": null,
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [
+        "noeasyfix_slot_lock"
+      ],
+      "tagSetSourceFile": "Tags/CompanyTags"
+    },
+    "RequirementComparisons": []
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "continue",
+        "Name": "File the circular",
+        "Details": "",
+        "Icon": ""
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "filed",
+            "Name": "File the circular",
+            "Details": "For those seeking refit kits, remember, a refit kit's store price starts high in the year it is released and gets cheaper year on year. Fitting the kit to a 'Mech is a separate cost that is 60 percent of a new machine's cost, less the sale value of the parts you add to the kit yourself. The bay refit does not get cheaper as the kit store price declines.\n\nCost Over Time - \n\n - The year a kit is announced: 110 percent of a new chassis cost.\n\n - The next year: 100 percent of a new chassis cost.\n\n - Third year: 95 percent of a new chassis cost.\n\n - Fourth year: 90 percent of a new chassis cost.\n\n - Fifth Year: 85 percent of a new chassis cost.\n\n - Sixth Year: 80 percent of a new chassis cost.\n\n - Seventh Year: 75 percent of a new chassis cost.\n\n - Eighth Year and every year after that: 70 percent of a new chassis cost.\n\nWhere the Kit is Available - \n\nA faction's stores stock that faction's kits. The world decides how many kits are drawn:\n\n - A House capital: six kits.\n\n - One of the House's other capitals: four kits.\n\n - A factory world: four kits.\n\n - A manufacturing world: three kits.\n\n - A research world: two kits.\n\n - Any other world that House owns: one kit.\n\nEach draw is weighted by how long the kit has been available. A kit that has been out longer is more likely to be drawn than a newly announced one. The same kit can be drawn more than once, and the store then offers that many copies.\n\nA kit can be bought before the company owns a matching 'Mech. Fitting the kit still requires an older hull of that chassis.",
+            "Icon": ""
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": null,
+              "AddedTags": {
+                "items": null,
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": null,
+                "tagSetSourceFile": ""
+              },
+              "Stats": null,
+              "Actions": null,
+              "ForceEvents": null,
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": null,
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [
+            "noeasyfix_slot_lock"
+          ],
+          "tagSetSourceFile": "Tags/CompanyTags"
+        },
+        "RequirementComparisons": []
+      }
+    }
+  ],
+  "PublishState": "PUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE"
+}

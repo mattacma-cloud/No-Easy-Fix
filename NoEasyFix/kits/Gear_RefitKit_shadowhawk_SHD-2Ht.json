@@ -1,0 +1,35 @@
+{
+  "StatName": null,
+  "RelativeModifier": 0,
+  "AbsoluteModifier": 0,
+  "Description": {
+    "Cost": 4092000,
+    "Rarity": 0,
+    "Purchasable": true,
+    "Manufacturer": "Factory",
+    "Model": "SHD-2Ht",
+    "UIName": "Refit Kit, Shadow Hawk SHD-2Ht",
+    "Id": "Gear_RefitKit_shadowhawk_SHD-2Ht",
+    "Name": "Refit Kit, Shadow Hawk SHD-2Ht",
+    "Details": "Class E factory refit for a Shadow Hawk SHD-2Ht. The finished machine gains double heat sinks and CASE. Applied from the mech bay. Baseline price 4,092,000 C-bills.",
+    "Icon": "uixSvgIcon_equipment_Gyro"
+  },
+  "BonusValueA": "Class E",
+  "BonusValueB": "",
+  "ComponentType": "Upgrade",
+  "ComponentSubType": "NotSet",
+  "PrefabIdentifier": "",
+  "BattleValue": 0,
+  "InventorySize": 0,
+  "Tonnage": 0,
+  "AllowedLocations": "All",
+  "DisallowedLocations": "None",
+  "CriticalComponent": false,
+  "statusEffects": [],
+  "ComponentTags": {
+    "items": [
+      "component_type_refitkit"
+    ],
+    "tagSetSourceFile": ""
+  }
+}
